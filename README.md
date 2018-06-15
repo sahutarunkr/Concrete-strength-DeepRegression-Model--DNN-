@@ -4,3 +4,4 @@ It is an attempt to find realtion between compressive strenth and the compositio
 
 ## Factors taken in consideration: 
 Cement wt, Slag amount, FlyAsh amount, Water, SuperPlasticizers, Coarse Aggregate, Fine Aggregate, and Age of Curing
+
