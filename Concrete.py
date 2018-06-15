@@ -116,7 +116,7 @@ def main(argv):
 
   print()
 
-  #Average_loss= 0.151
+  #Average_loss= 0.151 #Error 3%
 
 
 
